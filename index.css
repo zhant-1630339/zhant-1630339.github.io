@@ -1,0 +1,28 @@
+h1 {
+	color:red;
+}
+
+h2 {
+	background: rgba(200, 0, 20, 0.5);
+}
+
+body {
+	background: url("https://wallpapercave.com/wp/Eq8QFeC.jpg");
+	background-size: 800px 700px;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+#test {
+	color: red;
+	text-decoration-style: wavy;
+	text-decoration-line: underline;
+	text-decoration-color: green;
+}
+
+* {
+	color: red;
+	text-decoration-style: wavy;
+	text-decoration-line: underline;
+	text-decoration-color: green;
+}
