@@ -1,0 +1,25 @@
+body {
+	background: url("cherry.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+image {
+	max-width: 50%;
+	height:100px;
+	float: right;
+}
+
+p {
+	color: black;
+	font-weight: bolder;
+}
+
+#demo {
+    border-radius: 50px 50px 50px 50px;
+    background: #00FFFF;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+}
